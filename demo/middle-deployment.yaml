@@ -18,7 +18,7 @@ spec:
         run: api
     spec:
       containers:
-      - image: repo.treescale.com/snahelou22/middleware:1.1.20
+      - image: repo.treescale.com/snahelou22/middleware:1.1.23
         name: middle
         imagePullPolicy: 'Always'
         resources:
