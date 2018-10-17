@@ -18,7 +18,7 @@ spec:
         run: frontend
     spec:
       containers:
-      - image: repo.treescale.com/snahelou22/frontend:1.1.22
+      - image: repo.treescale.com/snahelou22/frontend:1.1.23
         name: frontend
         imagePullPolicy: 'Always'
         resources:
